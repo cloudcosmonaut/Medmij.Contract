@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>io.cloudcosmonaut.medmij.contract</id>
+    <title>Medmij contracts</title>
+    <authors>cloudcosmonaut</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">GPL-3.0-or-later</license>
+    <projectUrl>https://github.com/cloudcosmonaut/Medmij.Contract</projectUrl>
+    <description>Informational package for Medmij contracts</description>
+    <releaseNotes>Added actual Gegevensdiensten</releaseNotes>
+    <tags>medmij</tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
